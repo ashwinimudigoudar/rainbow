@@ -3,10 +3,9 @@
 # Clown fish  Nemo
 
 **Highlights**
- |**family**   | Pomacentridae |
- |**Subfamily**| Amphiprioninae|
- |**Kingdom**  | Animalia      |
- |**Phylum**   | Chordata      |
+ | Family      | Subfamily | Kingdom | Phylum |
+ |-------------|:------------:|:------:|-------:|
+ |Pomacentridae|Amphiprioninae|Animalia|Chordata|
  
  **SOME INTRESTING FACTS**
  1. Clownfish are endemic to the warmer waters.
@@ -30,6 +29,5 @@
 [VIDEOS LINKED](https://youtu.be/mlEZikvP9xg)
 
 
-OA
 *** (Horizontal Rule)
 [ Fautin, Daphne G.; Allen, Gerald R. (1997). Field Guide to Anemone Fishes and Their Host Sea Anemones. Western Australian Museum. ISBN 9780730983651. Archived from the original on 14 April 2015.][1] 
